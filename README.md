@@ -9,3 +9,5 @@
 7. programa_07.py - Strings 4
 8. programa_08.py - Condicionales
 9. programa_09.py - condicionales
+10. programa_10.py - while
+11. programa_11.py - funciones
